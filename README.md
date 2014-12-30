@@ -58,4 +58,4 @@ After verifying your prerequisites, perform the following tasks in order to prep
 	*	<a href="http://devdocs.magento.com/guides/v1.0/install-gde/install/install-cli.html">Install Magento software using the command line</a>
 2.	<a href="http://devdocs.magento.com/guides/v1.0/install-gde/install/verify.html">Verify the installation</a>
 
-that's all folks and goodbye
+that's all folks and goodbye and so long
